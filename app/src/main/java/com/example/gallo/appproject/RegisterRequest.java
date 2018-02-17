@@ -11,7 +11,7 @@ import java.util.Map;
  */
 
 public class RegisterRequest extends StringRequest {
-    private static final String REGISTER_REQUEST_URL = "https://dissonant-curl.000webhostapp.com/Register.php";
+    private static final String REGISTER_REQUEST_URL = "register php file url";
     private Map<String, String> params;
 
     public RegisterRequest(String username, String password, Response.Listener<String> listener){
