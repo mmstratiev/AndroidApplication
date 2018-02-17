@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppProject</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_no_account">No account? Register</string>
+    <string name="action_have_account">Have an account? Login</string>
+    <string name="action_continue_without">Continue without signing in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_login">Username or password is incorrect</string>
+    <string name="error_invalid_register">Username is taken</string>
+    <string name="error_passwords_mismatch">Passwords do not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
